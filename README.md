@@ -7,7 +7,7 @@ The aim of the weather analysis is to visualize the weather of over 500 cities o
 
 
 ## **Vacation Hotels** <br>
-The aim of the Vacation Hotels component is to write a scipt to visualize available hotels to plan future vacations. Using the geoViews Python library and the Geoapify API, the scipt first imports the csv file of cities created in the previous Weather exercise, and then plots all the cities on the world map. Cities are then filtered by a specific weather condition to narrow down the ideal location for a vacation. Using the Geoapify API, the script then seraches for hotels within a particular distance from the Latitude and Longitude of each city and collects these into a new DataFrame. A final map is created to show the locations of the available hotel for each desired city.
+The aim of the Vacation Hotels component is to write a scipt to visualize available hotels to plan future vacations. Using the geoViews Python library and the Geoapify API, the scipt first imports the csv file of cities created in the previous Weather exercise, and then plots all the cities on the world map. Cities are then filtered by a specific weather condition to narrow down the ideal location for a vacation. Using the Geoapify API, the script then searches for hotels within a particular distance from the Latitude and Longitude of each city and collects these into a new DataFrame. A final map is created to show the locations of the available hotel for each desired city.
 
 
 ### **References** <br>
